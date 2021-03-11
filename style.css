@@ -10,4 +10,16 @@ html, body {
     display: grid;
     justify-content: center;
     align-items: center;
+    justify-items: center;
+    grid-template-rows: auto max-content;
+    grid-template-columns: 1fr auto;
+    grid-template-areas: "content content" ". link";
+
 }
+ h3 {
+     grid-area: content;
+ }
+
+ a {
+     grid-area: link;
+ }
