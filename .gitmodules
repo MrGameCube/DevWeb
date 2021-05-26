@@ -1,3 +1,6 @@
 [submodule "nullboard"]
 	path = nullboard
 	url = https://github.com/apankrat/nullboard
+[submodule "MCCountdown"]
+	path = MCCountdown
+	url = https://github.com/MrGameCube/MCCountdown
