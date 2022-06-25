@@ -4,3 +4,6 @@
 [submodule "MCCountdown"]
 	path = MCCountdown
 	url = https://github.com/MrGameCube/MCCountdown
+[submodule "fehlzeiten"]
+	path = fehlzeiten
+	url = git@github.com:MrGameCube/fehlzeiten-gui
