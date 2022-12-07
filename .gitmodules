@@ -7,3 +7,6 @@
 [submodule "fehlzeiten"]
 	path = fehlzeiten
 	url = git@github.com:MrGameCube/fehlzeiten-gui
+[submodule "gehen-wir-in-die-mensa"]
+	path = gehen-wir-in-die-mensa
+	url = https://github.com/MrGameCube/gehen-wir-in-die-mensa
